@@ -1,0 +1,168 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "first_name" : "Ali",
+            "last_name" : "Frederick",
+            "department" : 1,
+            "role" : "Administrator",
+            "position": "Manager",
+            "active" : true
+        },
+        {
+            "id": 2,
+            "first_name" : "Estella",
+            "last_name" : "Flowers",
+            "department" : 1,
+            "role" : "Administrator",
+            "position": "HR",
+            "active" : true
+        },
+        {
+            "id": 3,
+            "first_name" : "Willie",
+            "last_name" : "Richars",
+            "department" : 1,
+            "role" : "Employee",
+            "position": "Employee",
+            "active" : true
+        },
+        {
+            "id": 4,
+            "first_name" : "Dona",
+            "last_name" : "Fry",
+            "department" : 1,
+            "role" : "Employee",
+            "position": "Employee",
+            "active" : false
+        },
+        {
+            "id": 5,
+            "first_name" : "Jan",
+            "last_name" : "Bender",
+            "department" : 1,
+            "role" : "Employee",
+            "position": "Employee",
+            "active" : true
+        },
+        {
+            "id": 6,
+            "first_name" : "Mark",
+            "last_name" : "Gonzaga",
+            "department" : 2,
+            "role" : "Employee",
+            "position": "Employee",
+            "active" : true
+        },
+        {
+            "id": 7,
+            "first_name" : "Jordan",
+            "last_name" : "Cole",
+            "department" : 2,
+            "role" : "Employee",
+            "position": "Employee",
+            "active" : true
+        },
+        {
+            "id": 8,
+            "first_name" : "Sam",
+            "last_name" : "Morales",
+            "department" : 3,
+            "role" : "Employee",
+            "position": "Mechanic",
+            "active" : true
+        },
+        {
+            "id": 9,
+            "first_name" : "Sander",
+            "last_name" : "Kannaghan",
+            "department" : 3,
+            "role" : "Employee",
+            "position": "Painter",
+            "active" : true
+        },
+        {
+            "id": 10,
+            "first_name" : "Tony",
+            "last_name" : "Katagalugan",
+            "department" : 2,
+            "role" : "Employee",
+            "position": "Cook",
+            "active" : true
+        },
+        {
+            "id": 11,
+            "first_name" : "Lavar",
+            "last_name" : "Baltog",
+            "department" : 1,
+            "role" : "Employee",
+            "position": "Cook",
+            "active" : true
+        },
+        {
+            "id": 12,
+            "first_name" : "Conor",
+            "last_name" : "Castor",
+            "department" : 1,
+            "role" : "Employee",
+            "position": "Laiason",
+            "active" : true
+        },
+        {
+            "id": 13,
+            "first_name" : "Sugar",
+            "last_name" : "Alarcon",
+            "department" : 2,
+            "role" : "Employee",
+            "position": "Cook",
+            "active" : true
+        },
+        {
+            "id": 14,
+            "first_name" : "Terry",
+            "last_name" : "Manzano",
+            "department" : 2,
+            "role" : "Administrator",
+            "position": "Manager",
+            "active" : true
+        },
+        {
+            "id": 15,
+            "first_name" : "Peter",
+            "last_name" : "Bautista Sr.",
+            "department" : 2,
+            "role" : "Employee",
+            "position": "Delivery",
+            "active" : true
+        },
+        {
+            "id": 16,
+            "first_name" : "Renmark",
+            "last_name" : "Estrada",
+            "department" : 3,
+            "role" : "IT",
+            "position": "Senior Developer",
+            "active" : true
+        },
+        {
+            "id": 17,
+            "first_name" : "Mary Joy",
+            "last_name" : "Portis",
+            "department" : 2,
+            "role" : "Employee",
+            "position": "IT Staff",
+            "active" : false
+        },
+        {
+            "id": 18,
+            "first_name" : "Zandro",
+            "last_name" : "Peregrin",
+            "department" : 1,
+            "role" : "Administrator",
+            "position": "HR",
+            "active" : true
+        }
+    ]
+}
+
+ 
